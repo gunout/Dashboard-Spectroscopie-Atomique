@@ -19,4 +19,86 @@
 
     streamlit run Dashboard.py
 
+# RUN PROGRAM ( PRO )
+
+    streamlit run DashboardPro.py
+
+
+# 📊 Tableau Périodique Interactif
+
+    Vue complète de tous les éléments organisés par période et groupe
+
+    Codage couleur par catégorie chimique
+
+    Navigation intuitive entre les éléments
+
+2. 📚 Bibliothèque Spectrale Complète
+
+
+    Recherche par élément : Spectres détaillés pour chaque atome
+
+    Recherche par catégorie : Métaux alcalins, gaz nobles, halogènes, etc.
+
+    Comparaison de spectres : Visualisation multi-éléments
+
+
+3. 🔧 Outils d'Analyse Avancée
+
+
+    Simulateur de spectres avec paramètres physiques (température, pression)
+
+    Base de données filtrable des raies spectrales
+
+    Recherche avancée par longueur d'onde et énergie
+
+
+
+4. ⚛️ Couverture Élémentaire Étendue
+
+
+    Période 1 : H, He
+
+    Période 2 : Li, Be, B, C, N, O, F, Ne
+
+    Période 3 : Na, Mg, Al, Si, P, S, Cl, Ar
+
+    Métaux de transition : Fe, Cu, Ag, Au, Hg
+
+    Autres éléments importants : Pb, U
+
+
+6. 🎨 Catégorisation Complète
+
+
+    Métaux alcalins (Li, Na, K...)
+
+    Métaux alcalino-terreux (Be, Mg, Ca...)
+
+    Métaux de transition (Fe, Cu, Ag, Au...)
+
+    Gaz nobles (He, Ne, Ar...)
+
+    Halogènes (F, Cl...)
+
+    Non-métaux (C, N, O...)
+
+    Métalloïdes (B, Si...)
+
+
+7. 🔬 Données Spectrales Réelles
+
+
+    Raies caractéristiques documentées pour chaque élément
+
+    Intensités relatives basées sur les transitions réelles
+
+    Énergies de transition calculées précisément
+
+    Profils spectraux simulés réalistes
+
+
+Ce dashboard offre maintenant une couverture complète de la spectroscopie atomique pour tous les éléments, avec des outils professionnels pour l'analyse et la comparaison des spectres.
+
+
+
 By Gleaphe 2025 .
