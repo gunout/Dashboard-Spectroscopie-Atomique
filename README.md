@@ -26,11 +26,13 @@
 
 # 📊 Tableau Périodique Interactif
 
-    Vue complète de tous les éléments organisés par période et groupe
+    
+Vue complète de tous les éléments organisés par période et groupe
 
-    Codage couleur par catégorie chimique
+Codage couleur par catégorie chimique
 
-    Navigation intuitive entre les éléments
+Navigation intuitive entre les éléments
+
 
 2. 📚 Bibliothèque Spectrale Complète
 
